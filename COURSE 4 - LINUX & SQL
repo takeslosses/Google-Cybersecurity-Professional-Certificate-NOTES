@@ -11,3 +11,37 @@ hardware -> OS -> application -> user
 https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/bfvQyeg_SC-DSgUsegf8PQ_8405d4e94af147e1b98df5150c2fd7f1_CS_R-060_User-Application-Operating-System-Hardware.png?expiry=1732233600000&hmac=PECrMdfNkYmLdKWqJiY1gJWhEaVo0TeOrpBex9xb2dg
 
 
+
+KALI LINUX™ is a trademark of Offensive Security and is Debian derived. This open-source distro was made specifically with penetration testing and digital forensics in mind. There are many tools pre-installed into KALI LINUX™. It's important to note that KALI LINUX™ should be used on a virtual machine. This prevents damage to your system in the event its tools are used improperly. An additional benefit is that using a virtual machine gives you the ability to revert to a previous state.
+
+
+
+The advantage of using Linux as an OS is that you can customize it. Distributions include the Linux kernel, utilities, a package management system, and an installer. We learned earlier that Linux is open source, and anyone can contribute to adding to the source code. That is how new distributions are created.
+Play video starting at :2:21 and follow transcript2:21
+All distros are derived from another distro, but there are a few that are considered parent distributions. Red Hat® is the parent of CentOS, and Slackware® is the parent of SUSE®. Both Ubuntu and KALI LINUX™ are derived from Debian.
+
+
+
+
+
+KALI LINUX™ has numerous tools that are useful during penetration testing. Let's look at a few examples.
+1. Metasploit can be used to look for and exploit vulnerabilities on machines. 
+2. Burp Suite is another tool that helps to test for weaknesses in web applications. 
+And finally, 
+3. John the Ripper is a tool used to guess passwords. 
+
+
+As a security analyst, your work might involve digital forensics. Digital forensics is the process of collecting and analyzing data to determine what has happened after an attack
+
+
+KALI LINUX™ is also a useful distribution for security professionals who are involved in digital forensic work. It has a large number of tools that can be used for this. 
+1. As one example, tcpdump is a command-line packet analyzer. It's used to capture network traffic. 
+2. Another tool commonly used in the security profession is Wireshark. It has a graphical user interface that can be used to analyze live and captured network traffic. 
+3. And as a final example, Autopsy is a forensic tool used to analyze hard drives and smartphones. 
+
+
+
+
+
+
+
