@@ -1,0 +1,65 @@
+Once they decide what to focus on, vulnerability assessments typically follow a four-step process. The first step is identification. Here, scanning tools and manual testing are used to find vulnerabilities. During the identification step, the goal is to understand the current state of a security system, like taking a picture of it.
+A large number of findings usually appear after identification. The next step of the process is vulnerability analysis. During this step, each of the vulnerabilities that were identified are tested. By being a digital detective, the goal of vulnerability analysis is to find the source of the problem.
+
+The third step of the process is risk assessment. During this step of the process, a score is assigned to each vulnerability. This score is assigned based on two factors: how severe the impact would be if the vulnerability were to be exploited and the likelihood of this happening.
+
+Vulnerabilities uncovered during the first two steps of this process often outnumber the people available to fix them. Risk assessments are a way of prioritizing resources to handle the vulnerabilities that need to be addressed based on their score.
+
+The fourth and final step of vulnerability assessment is remediation. It's during this step that the vulnerabilities that can impact the organization are addressed. Remediation occurs depending on the severity score assigned during the risk assessment step.
+
+This part of the process is normally a joint effort between the security staff and IT teams to come up with the best approach to fixing the vulnerabilities that were uncovered earlier. Examples of remediation steps might include things like enforcing new security procedures, updating operating systems, or implementing system patches.
+
+Vulnerability assessments are great for identifying the flaws of a system. Most organizations use them to search for problems before they happen. But how do we know where to search? When we get together again, we'll explore how companies figure this out.
+
+
+# Tools of the trade
+There are so many combinations that can be used to create a single set of login credentials. The number of characters, letters, and numbers that can be mixed together is truly incredible. When done manually, it could take someone years to try every possible combination.
+Instead of dedicating the time to do this, attackers often use software to do the guess work for them. These are some common brute forcing tools:
+* Aircrack-ng
+* Hashcat 
+* John the Ripper
+* Ophcrack
+* THC Hydra
+Sometimes, security professionals use these tools to test and analyze their own systems. They each serve different purposes. For example, you might use Aircrack-ng to test a Wi-Fi network for vulnerabilities to brute force attack.
+
+Prevention measures
+Organizations defend against brute force attacks with a combination of technical and managerial controls. Each make cracking defense systems through brute force less likely:
+* Hashing and salting
+* Multi-factor authentication (MFA)
+* CAPTCHA
+* Password policies
+Technologies, like multi-factor authentication (MFA), reinforce each login attempt by requiring a second or third form of identification. Other important tools are CAPTCHA and effective password policies.
+
+
+
+# How phishing has evolved
+
+Phishing continued evolving at the turn of the century as businesses and newer technologies began entering the digital landscape. In the early 2000s, e-commerce and online payment systems started to become popular alternatives to traditional marketplaces. The introduction of online transactions presented new opportunities for attackers to commit crimes.
+
+A number of techniques began to appear around this time period, many of which are still used today. There are five common types of phishing that every security analyst should know:
+
+- Email phishing is a type of attack sent via email in which threat actors send messages pretending to be a trusted person or entity.
+
+- Smishing is a type of phishing that uses Short Message Service (SMS), a technology that powers text messaging. Smishing covers all forms of text messaging services, including Apple’s iMessages, WhatsApp, and other chat mediums on phones.
+
+- Vishing refers to the use of voice calls or voice messages to trick targets into providing personal information over the phone.
+
+- Spear phishing is a subset of email phishing in which specific people are purposefully targeted, such as the accountants of a small business.
+
+- Whaling refers to a category of spear phishing attempts that are aimed at high-ranking executives in an organization.
+
+
+# Malware is software designed to harm devices or networks. Malware, which is short for malicious software, can be spread in many ways.
+
+
+# Five of the most common types of malware are a 
+virus, 
+worm, 
+trojan, 
+ransomware, and 
+spyware.
+
+A virus is malicious code written to interfere with computer operations and cause damage to data and software. Viruses typically hide inside of trusted applications. When the infected program is launched, the virus clones itself and spreads to other files on the device. An important characteristic of viruses is that they have to be activated by the user to start the infection.
+
+
+
